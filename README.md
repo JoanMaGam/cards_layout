@@ -4,4 +4,4 @@ This design is created entirely with HTML &amp; CSS.
 Deploy: 
 https://joanmagam.github.io/cards_layout/
 
-![image](https://github.com/JoanMaGam/cards_layout/assets/122151033/9625f1a9-bcd7-4407-ac14-8065471c0c8a)
+![image](https://github.com/JoanMaGam/cards_layout/assets/122151033/1102e66b-6d55-402b-8ff8-4f62af854c96)
